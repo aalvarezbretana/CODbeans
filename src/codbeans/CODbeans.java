@@ -17,6 +17,7 @@ public class CODbeans {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Primera prueba");
+        System.out.println("Segunda prueba");
     }
     
 }
